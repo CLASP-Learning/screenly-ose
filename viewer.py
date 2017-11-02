@@ -19,12 +19,12 @@ from lib import db
 from lib import assets_helper
 
 
-__author__ = "Screenly, Inc"
-__copyright__ = "Copyright 2012-2017, Screenly, Inc"
+__author__ = "CLASP Learning LLC"
+__copyright__ = "Copyright 2017"
 __license__ = "Dual License: GPLv2 and Commercial License"
 
 
-SPLASH_DELAY = 60  # secs
+SPLASH_DELAY = 20  # secs
 EMPTY_PL_DELAY = 5  # secs
 
 BLACK_PAGE = '/tmp/screenly_html/black_page.html'
